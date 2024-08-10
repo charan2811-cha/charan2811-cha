@@ -1,4 +1,3 @@
 - 👋 Hello there, I’m @charan teja
-- 👀 I’m interested in passionate to become fullstack developer
 - 🌱 I’m currently learning SpringBoot
 - 📫 How to reach me charanmudiraj456@gmail.com
